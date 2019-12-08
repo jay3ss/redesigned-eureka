@@ -1,2 +1,4 @@
 selenium
 git+git://github.com/jay3ss/google_image_downloader.git#egg=image_download_python3
+starlette
+uvicorn
